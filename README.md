@@ -23,14 +23,3 @@
 
 ## Тесты
 - `dotnet test number-multiplier-app.sln`
-
-## Публикация на GitHub (быстрый вариант)
-1. Инициализация и первый коммит:
-   - `git init`
-   - `git add .`
-   - `git commit -m "Initial commit: NumberMultiplier"`
-2. Создайте пустой репозиторий на GitHub (без README). Затем свяжите и запушьте:
-   - `git remote add origin https://github.com/<your-username>/<your-repo>.git`
-   - `git branch -M main`
-   - `git push -u origin main`
-"# number-multiplier-app" 
