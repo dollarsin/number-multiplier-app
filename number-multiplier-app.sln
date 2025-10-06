@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umberMultiplier", "backend\umberMultiplier.csproj", "{98ADDF0F-7587-1AA3-C561-29CCA6F0285F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98ADDF0F-7587-1AA3-C561-29CCA6F0285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98ADDF0F-7587-1AA3-C561-29CCA6F0285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98ADDF0F-7587-1AA3-C561-29CCA6F0285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98ADDF0F-7587-1AA3-C561-29CCA6F0285F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD17168-ABC8-4848-93CF-CC1F0DB2D4B3}
+	EndGlobalSection
+EndGlobal
